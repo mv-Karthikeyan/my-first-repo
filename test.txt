@@ -8,3 +8,7 @@ git commit -m "adding the files"
 git push -u origin master  --> first time
  git push --> everytime
 
+
+
+git status
+
